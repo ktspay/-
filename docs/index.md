@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /guidance/guidelines/introduce
+      link: /三国演义/三国演义-上卷/宴桃园豪杰三结义
     - theme: alt
       text: 在线预览
       target: _blank
